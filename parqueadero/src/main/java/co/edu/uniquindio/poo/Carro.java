@@ -31,12 +31,5 @@ public class Carro extends Vehiculo {
         return cantPuertas;
     }
    
-    /**
-     * Metodo getTarifa
-     * @return
-     */
-    public static double getTarifa() {
-        return tarifa;
-    }
-    
 }
+
